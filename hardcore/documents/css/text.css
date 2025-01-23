@@ -1,0 +1,67 @@
+a.get:hover {
+  color: #2e2e2e;
+}
+
+.color {
+  color: #bebfc7;
+}
+
+.color2 {
+  color: #2e2e2e;
+}
+
+@font-face {
+  font-family: 'myFont1';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/BAHNSCHRIFT.woff') format('woff');
+}
+
+.font {
+  font-family: myFont1;
+}
+
+@font-face {
+  font-family: 'myFont2';
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/Roboto-BoldCondensed.woff") format("woff");
+}
+
+.font2 {
+  font-family: myFont2;
+}
+
+.leftminecraft {
+  display: block;
+  position: relative;
+  font-size: 45px;
+  color: #2e2e2e;
+  top: -406px;
+  right: 415px;
+}
+
+.lefthardcore {
+  display: block;
+  position: relative;
+  font-size: 45px;
+  color: #2e2e2e;
+  top: -435px;
+  right: 415px;
+}
+
+a.whitecopyright:hover {
+  color: white;
+}
+
+.lefttext {
+  display: block;
+  position: relative;
+  top: -450px;
+  right: 415px;
+  color: #2e2e2e;
+}
+
+.idsp {
+  font-size: 35px;
+}

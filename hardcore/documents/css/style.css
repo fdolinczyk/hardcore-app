@@ -1,0 +1,64 @@
+.block {
+  display: block;
+  position: relative;
+  background-color: white;
+  width: 1100px;
+  height: 65px;
+  top: 90px;
+}
+
+.block2 {
+  display: block;
+  position: relative;
+  background-color: white;
+  width: 1100px;
+  height: 450px;
+  top: 110px;
+}
+
+.block3 {
+  display: block;
+  position: relative;
+  background-color: #2e2e2e;
+  width: 1100px;
+  height: 25px;
+  top: 120px;
+}
+
+.block4 {
+  display: block;
+  position: relative;
+  background-color: #bebfc7;
+  width: 795px;
+  height: 420px;
+  top: 16px;
+  left: 135px;
+}
+
+.leftcolored {
+  display: inline-block;
+  position: relative;
+  font-size: 19px;
+  color: #bebfc7;
+  top: 5.8px;
+  right: 7.2%;
+}
+
+.right {
+  display: inline-block;
+  position: relative;
+  font-size: 22px;
+  top: 12.8px;
+  left: 5.8%;
+}
+
+.rightmchcolored {
+  display: inline-block;
+  position: relative;
+  font-weight: 700;
+  font-size: 34px;
+  color: #2e2e2e;
+  top: 11.5px;
+  left: 6.2%;
+  font-weight: 700;
+}
